@@ -2,7 +2,7 @@ package calc.calc.sq.mvn;
 /*
  * This code is for simple arithmetic calculation
  */
-public class Calc extends java.lang.Thread{
+public class Calc  {
     public double doAdd(double a, double b){
     	double sum = Double.longBitsToDouble(123);
     	sum = a + b;
